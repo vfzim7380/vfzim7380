@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Vinícios de Faria</h1>
 
 <p align="center">
-  Desenvolvedor em formação | Backend & Full Stack | Java, PHP & SQL
+  Desenvolvedor em formação | Full Stack | Java, PHP & SQL
 </p>
 
 <p align="center">
@@ -19,8 +19,6 @@ Sou estudante e desenvolvedor em formação, atualmente no **3º ano do ensino m
 Tenho interesse em entender como os sistemas funcionam por trás das interfaces, principalmente a parte de **lógica de programação, APIs, autenticação, bancos de dados e organização de projetos**.
 
 Venho desenvolvendo projetos práticos envolvendo sistemas de gerenciamento, cadastros, agendamentos e aplicações conectadas a bancos de dados.
-
-Gosto de escrever código de forma organizada, entender o motivo das soluções e transformar ideias em sistemas funcionais.
 
 ---
 
@@ -76,8 +74,7 @@ Gosto de escrever código de forma organizada, entender o motivo das soluções 
 
 Atualmente estou ampliando meus conhecimentos em **desenvolvimento Full Stack**, com foco principalmente em:
 
-* Backend com Java e PHP
-* Desenvolvimento de APIs
+* Backend com PHP
 * Bancos de dados relacionais e SQL
 * MySQL e modelagem de bancos de dados
 * JavaScript e TypeScript
@@ -93,13 +90,13 @@ Atualmente estou ampliando meus conhecimentos em **desenvolvimento Full Stack**,
 
 Alguns dos tipos de projetos que venho desenvolvendo e estudando:
 
-**Sistema de Gerenciamento de Jogos**
-
-Aplicação para cadastro e gerenciamento de jogos, utilizando autenticação de usuários, banco de dados e operações de cadastro e consulta.
-
 **Sistema de Gestão Clínica**
 
 Projeto de sistema para centralizar informações de profissionais, pacientes, agendamentos, prontuários e gerenciamento financeiro.
+
+**Sistema de Gerenciamento de Jogos**
+
+Aplicação para cadastro e gerenciamento de jogos, utilizando autenticação de usuários, banco de dados e operações de cadastro e consulta.
 
 **Sistemas com PHP e MySQL**
 
@@ -115,9 +112,7 @@ Modelagem conceitual e lógica, criação de tabelas, relacionamentos, chaves pr
 
 * Backend
 * Desenvolvimento Full Stack
-* Engenharia de Software
 * Banco de Dados
-* APIs
 * Desenvolvimento Web
 * Arquitetura de Sistemas
 * UI/UX
